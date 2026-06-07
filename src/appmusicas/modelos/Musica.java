@@ -1,0 +1,4 @@
+package appmusicas.modelos;
+
+public class Musica {
+}
