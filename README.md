@@ -1,4 +1,5 @@
-# Aplicação de Músicas e Podcasts 🎬
+# Aplicação de Músicas e Podcasts 🎵
+Primeira versão (MVP)
 
 Projeto desenvolvido para praticar os conceitos de Programação Orientada a Objetos (POO) em Java.
 
